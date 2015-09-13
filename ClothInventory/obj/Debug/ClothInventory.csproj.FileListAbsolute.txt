@@ -1,0 +1,2 @@
+c:\users\pallishree\documents\visual studio 2013\Projects\ClothInventory\ClothInventory\bin\Debug\ClothInventory.exe.config
+C:\Users\pallishree\Documents\Visual Studio 2013\Projects\ClothInventory\Repo\ClothInventory\bin\Debug\ClothInventory.exe.config
